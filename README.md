@@ -1,4 +1,4 @@
-Script renames all files in current dir and add them unique ID
+Script recursively walks through dirs and renames all files in current dir and added them unique ID
 
 ### Requirements
 
