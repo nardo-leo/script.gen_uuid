@@ -15,5 +15,3 @@ Python 3
 ## Authors
 
 * Leo Nardo
-
-See also the list of [contributors](http://192.168.88.240:3000/leonardo/script.gen_uuid) who participated in this project.
